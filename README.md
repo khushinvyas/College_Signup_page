@@ -1,7 +1,7 @@
 # **College Signup Portal**
 A simple and responsive student registration portal built with React.js for Symbiosis Institute of Technology. This project allows students to sign up by entering their name, email, and password.
 
-<img width="1470" alt="Screenshot 2025-03-06 at 12 33 53 AM" src="https://github.com/user-attachments/assets/00cd9a40-d7d7-45ab-ad04-b9c58cbd8fb1" />
+<img width="1470" alt="Screenshot 2025-03-06 at 12 33 53 AM" src="src/assests/Screenshot (53).png" />
 
 # **Features**
 -> Responsive and user-friendly UI 
